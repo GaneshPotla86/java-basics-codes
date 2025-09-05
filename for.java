@@ -17,4 +17,5 @@ import java.util.*; // This package is used for taking input from the user.
     }
 }
 
-
+//INPUT:4       //{0+1+2+3+4=10}
+//OUTPUT: 10
